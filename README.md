@@ -85,4 +85,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 6. modules:['@nuxtjs/tailwindcss']  in nuxt.config.ts 
 7. npx tailwindcss init
 8. npm run dev
-9. 
+9. gist.github.com/hassnian/a8ef7f243dcc933887b31af77e73df29#file-tailwind-config-js
