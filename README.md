@@ -73,3 +73,16 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+
+
+1. npx nuxi init foldername
+2. cd foldername
+3. npm i
+4. npm run dev
+5. npm install -D @nuxtjs/tailwindcss
+6. modules:['@nuxtjs/tailwindcss']  in nuxt.config.ts 
+7. npx tailwindcss init
+8. npm run dev
+9. 
